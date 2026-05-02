@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<ItemGroup>
+  <!-- Esto hace que el compilador ignore TODOS los archivos .cs de tu carpeta -->
+  <Compile Remove="**/*.cs" />
+  
+  <!-- Aquí pones SOLO el archivo que quieres que funcione ahora -->
+  <Compile Include="s6_CalcularV3.cs" />
+</ItemGroup>
+
 </Project>
