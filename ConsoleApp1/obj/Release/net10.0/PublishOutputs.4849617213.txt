@@ -1,0 +1,5 @@
+c:\Users\Adrian\Desktop\My Development\Fundamentos_Algoritmos_2026_I\FundAlgoritmosCSharp\ConsoleApp1\bin\Release\net10.0\publish\ConsoleApp1.exe
+c:\Users\Adrian\Desktop\My Development\Fundamentos_Algoritmos_2026_I\FundAlgoritmosCSharp\ConsoleApp1\bin\Release\net10.0\publish\ConsoleApp1.dll
+c:\Users\Adrian\Desktop\My Development\Fundamentos_Algoritmos_2026_I\FundAlgoritmosCSharp\ConsoleApp1\bin\Release\net10.0\publish\ConsoleApp1.deps.json
+c:\Users\Adrian\Desktop\My Development\Fundamentos_Algoritmos_2026_I\FundAlgoritmosCSharp\ConsoleApp1\bin\Release\net10.0\publish\ConsoleApp1.runtimeconfig.json
+c:\Users\Adrian\Desktop\My Development\Fundamentos_Algoritmos_2026_I\FundAlgoritmosCSharp\ConsoleApp1\bin\Release\net10.0\publish\ConsoleApp1.pdb

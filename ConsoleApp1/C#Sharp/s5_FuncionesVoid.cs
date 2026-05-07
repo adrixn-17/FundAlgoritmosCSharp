@@ -1,12 +1,13 @@
-// Declarar variables
-string nombreCompleto = "";
-// Solicitar al usuario su nombre completo
-Console.WriteLine("Ingresa tu nombre: ");
-nombreCompleto = Console.ReadLine();
-// Mostrar informacion del usuario
-saludar(nombreCompleto);
+int cont = 100; // variable local del main
+cont++;
+Contar();
+Contar();
+Contar();
+Console.WriteLine("Var Main: " + cont);
 
-void saludar(string nombres)
+void Contar()
 {
-    Console.WriteLine("Hola " + nombres + " Bienvenido a mi Sistema");
+    int cont = 0; // Variable local de la funcion
+    cont++; // suma 1 a la varible local
+    Console.WriteLine("Var Func: " + cont);
 }
